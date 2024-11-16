@@ -1,6 +1,5 @@
 # Desafio - Frontend Mentor - Order summary card
 
-![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 # 🌟Oi :) 
 Fiz esse desafio do Frontend Mentor, onde preciso criar uma página de confirmação de pedido! 
