@@ -1,7 +1,4 @@
-# Desafio - Frontend Mentor - Order summary card
-
-
-# 🌟Oi :) 
+# 🌟  Desafio 1 - Frontend Mentor - Order summary card
 Fiz esse desafio do Frontend Mentor, onde preciso criar um card de confirmação de pedido! 
 
 # 🖥️ Resultado final:
